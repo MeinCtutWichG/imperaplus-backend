@@ -184,7 +184,7 @@ mapTemplate.Continents.Add(continent11);
 mapTemplate.Connections.Add(new Connection("1", "2"));
 mapTemplate.Connections.Add(new Connection("2", "1"));
 mapTemplate.Connections.Add(new Connection("2", "3"));
-mapTemplate.Connections.Add(new Connection("2", "8"));
+mapTemplate.Connections.Add(new Connection("2", "10"));
 mapTemplate.Connections.Add(new Connection("3", "2"));
 mapTemplate.Connections.Add(new Connection("3", "4"));
 mapTemplate.Connections.Add(new Connection("3", "5"));
